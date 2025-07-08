@@ -14,5 +14,3 @@ _Coming soon or hosted elsewhere._
 ### 🖼️ Screenshot
 
 ![Portfolio Screenshot](./screenshotporto.png)
-
-### 🔗 Resources
